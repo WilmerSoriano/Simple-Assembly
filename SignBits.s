@@ -1,11 +1,12 @@
 /*
-    using hexa and binary bits to manipulate
+    Using bits to manipulate
     the variable found in the function.
 
     Summary:
     The following program check if the value is
-    sign(negative/positive) and organizes them 
-    from least to greatest.
+    sign(negative or positive), check both values found in
+    small and half (8 bit and 16 bit), and give the added
+    result.
 */
 
     .global _start
